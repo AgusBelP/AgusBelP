@@ -4,7 +4,7 @@ Bienvenid@a mi perfil de GitHub! Aqui podras ver mi información y algunos proye
 
 Actualmente dando mis primeros pasos en Frontend, me gusta probar mis conocimientos con desafíos puntuales. Entre mis respositorios encontrarás aquellos proyectos que uso para afianzar conocimientos y/o probar nuevas habilidades. 
 
-Para más sobre te invito a mi perfil de Linkedin: https://www.linkedin.com/in/agustina-piuzzi-698607119/
+Para más información te invito a mi perfil de Linkedin: https://www.linkedin.com/in/agustina-piuzzi-698607119/
 
 
 
