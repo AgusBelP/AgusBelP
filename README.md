@@ -4,7 +4,7 @@ Bienvenid@a mi perfil de GitHub! Aqui podras ver mi información y algunos proye
 
 Actualmente dando mis primeros pasos para Full Stack mediante el programa Codo a Codo FullStack Node JS, me gusta probar mis conocimientos con desafíos puntuales. Entre mis respositorios encontrarás aquellos proyectos que uso para afianzar conocimientos y/o probar nuevas habilidades, algunos son personales y otros son prácticas del curso Codo a Codo. 
 
-A pesar de estar un poco más inclinada al área Backend trato de aprender lo más que puedo tanto del lado cliente como servidor para poder ofrecer un servicio lo más completo posible. 
+A pesar de estar un poco más inclinada al área Backend trato de aprender lo más que pueda tanto del lado cliente como servidor para poder ofrecer un servicio lo más completo posible. 
 
 Para más información te invito a mi perfil de Linkedin: https://www.linkedin.com/in/agustina-piuzzi-698607119/
 
