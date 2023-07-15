@@ -2,7 +2,7 @@
 
 Bienvenid@a mi perfil de GitHub! Aqui podras ver mi información y algunos proyectos en los que estoy trabajando. 
 
-Actualmente dando mis primeros pasos para Full Stack mediante el programa Codo a Codo FullStack Node JS, me gusta probar mis conocimientos con desafíos puntuales. Entre mis respositorios encontrarás aquellos proyectos que uso para afianzar conocimientos y/o probar nuevas habilidades, algunos son personales y otros son prácticas del curso Codo a Codo. 
+Desarrolladora Backend en pleno desarrollo! Me gusta probar mis conocimientos con desafíos puntuales. Entre mis respositorios encontrarás aquellos proyectos que uso para afianzar conocimientos y/o probar nuevas habilidades, algunos son personales y otros son prácticas del curso Codo a Codo - FullStack NodeJS.
 
 A pesar de estar un poco más inclinada al área Backend trato de aprender lo más que pueda tanto del lado cliente como servidor para poder ofrecer un servicio lo más completo posible. 
 
